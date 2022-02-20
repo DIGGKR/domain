@@ -1014,27 +1014,15 @@ nav.top-nav-collapse {
 }
 
 .section-light {
-   /*  background: -webkit-linear-gradient( rgba(245, 245, 245, 0.9), rgba(245, 245, 245, 0.9)), url(../images/wchoose-bg.jpg) 50% 0 no-repeat fixed;
+    background: -webkit-linear-gradient( rgba(245, 245, 245, 0.9), rgba(245, 245, 245, 0.9)), url(../images/wchoose-bg.jpg) 50% 0 no-repeat fixed;
     background: linear-gradient( rgba(245, 245, 245, 0.9), rgba(245, 245, 245, 0.9)), url(../images/wchoose-bg.jpg) 50% 0 no-repeat fixed;
-     */
-     
-     background: -webkit-linear-gradient( rgba(245, 245, 245, 0.9), rgba(245, 245, 245, 0.9));
-    background: linear-gradient( rgba(245, 245, 245, 0.9), rgba(245, 245, 245, 0.9));
-     
-     
-     background-size: cover;
+    background-size: cover;
 }
 
 .section-dark {
-    /* background: -webkit-linear-gradient( rgba(20, 20, 20, 0.9), rgba(20, 20, 20, 0.9)), url(../images/wchoose-bg.jpg) 50% 0 no-repeat fixed;
+    background: -webkit-linear-gradient( rgba(20, 20, 20, 0.9), rgba(20, 20, 20, 0.9)), url(../images/wchoose-bg.jpg) 50% 0 no-repeat fixed;
     background: linear-gradient( rgba(20, 20, 20, 0.9), rgba(20, 20, 20, 0.9)), url(../images/wchoose-bg.jpg) 50% 0 no-repeat fixed;
-     */
-     
-     background: -webkit-linear-gradient( rgba(20, 20, 20, 0.9), rgba(20, 20, 20, 0.9));
-    background: linear-gradient( rgba(20, 20, 20, 0.9), rgba(20, 20, 20, 0.9));
-    
-    
-     background-size: cover;
+    background-size: cover;
 }
 
 .k-why-choose-us-main .k-why-choose-us {
